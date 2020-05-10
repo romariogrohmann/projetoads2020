@@ -1,0 +1,91 @@
+Entrevistado: Thiago
+Entrevistador: Romário
+
+Perfil do Entrevistado:
+* Quais são suas principais responsabilidades?
+Gerencio a área de vendas da empresa, mais especificadamente a área que atende os clientes que ainda não evoluíram junto a empresa.
+* O que você considera como um trabalho bem-sucedido? 
+Atingimento das metas mensais de vendas.
+* Quais problemas interferem neste sucesso? 
+Falta de planejamento por parte de seus vendedores
+* Quais aspectos, se existentes, tornam seu trabalho mais fácil ou difícil?
+As facilidades estão numa boa gestão de pessoas e o relacionamento com os clientes. Já as dificuldades podem ocorrer por falta de planejamento e problemas operacionais da empresa como um todo.
+
+Perfil da Empresa:
+* Qual o negócio da empresa?
+Empresa Pública de Logística
+* Qual o principal produto da empresa?
+Serviços de Entrega
+* Quais seus principais clientes?
+Clientes que faturam mensalmente de R$30mil a R$480mil
+* De uma forma geral, como funciona sua empresa?
+Os clientes contratam nossos serviços de entrega, efetuamos a recepção dos objetos e encaminhamento com entrega no final.
+* Quais os relatórios que considera importante para sua tomada de decisão?
+Relatórios de desempenho de meus vendedores, tanto de receita como administrativos e de negociação.
+* Quais as principais áreas que elaboram estes relatórios?
+A Gerência possui uma área específica dentro dela para geração dos relatórios.
+* O que mais você tem a falar sobre o seu negócio que considera importante?
+A empresa vive de novos negócios, então é primordial estarmos direcionando nossos esforços para onde há mais possibilidade de novos negócios.
+
+Identificação do Problema:
+* Quais os seus principais problemas?
+Atualmente meus vendedores passam mais tempo na sede resolvendo problemas operacionais do que em visita aos clientes para obtenção de novos negócios. Quando eles estão em visita não conseguimos visualizar o quando de nova receita eles estão agregando para a empresa. 
+* Por que este problema existe?
+Pela falta de ferramentas ideais para os controles, bem como pelos Vendedores que muitas vezes não cumprem o papel que a eles foram definidos.
+* Como você o soluciona agora?
+Não possuo controle atualmente sobre as questões de visitas.
+* Como você gostaria que o mesmo fosse solucionado?
+Necessitamos uma ferramenta que efetue o controle das visitas, com a possibilidade de planejamento e emissão de relatórios. Uma funcionalidade de comprovação da visita também seria muito importante.
+* Qual seria sua ordem de prioridade para solução de cada um desses problemas?
+Primeiramente o planejamento, posteriormente a comprovação das visitas.
+* Existe alguma restrição quanto a solução que venha a ser desenvolvida?
+Como trata-se de empresa pública o sistema não pode repassar informações internas e sigilosas para ambientes externos da empresa, devendo todas as informações serem armazenadas internamente.
+
+
+
+Identificação do Ambiente de Uso:
+* Usuário:
+o Quem são os usuários? Homens e Mulheres entre 32 e 48 anos.
+o Qual o seu nível educacional? Nivel Superior Completo
+o Qual o seu nível de experiência com computadores? A maioria tem conhecimento básico (Windows e aplicações Office)
+o Estes usuários possuem experiência com este tipo de sistema?
+* Ambiente Tecnológico:
+o Quais plataformas estão em uso? Windows e Celulares
+o Existem planos para futuras plataformas? Não
+o Existem aplicações adicionais que são relevantes para esta aplicação? Caso positivo, faça um comentário sobre as mesmas. Não
+* Sistema a ser desenvolvido:
+o Quais as suas expectativas sobre a usabilidade do produto?
+Um produto de fácil manuseio e com bons relatórios que atendam as minhas expectativas.
+o Quais as suas expectativas em relação ao tempo de aprendizagem do sistema?
+De fácil aprendizado.
+o Qual tipo de ajuda ao usuário (instaladores, help on-line, etc.) você precisa?
+Curso simples de utilização do sistema.
+o Qual sua expectativa com relação ao prazo para entrega do sistema?
+No máximo 2 meses.
+o Qual sua expectativa de custo para o desenvolvimento?
+Por tratar-se de empresa pública com restrições orçamentárias, um preço na 
+média do mercado.
+
+Identificação dos Requisitos do Sistema:
+* Campos e dados:
+o Quais as informações são indispensáveis que devem constar no sistema? 
+É importante que conste na informação da visita, além da data e horário que será realizada e o nome do cliente, possuímos também um identificador do cliente, que utilizamos para registrar todas informações do cliente. Outra necessidade é constar qual o tipo da visita e o quanto essa visita irá gerar de receita para a empresa.
+o Esse identificador do cliente é gerado automaticamente?
+Não tenho conhecimento, esse número é gerado em outro sistema, mas realizamos o acompanhamento dos clientes por esse código.
+o Quais são os tipos de visita que você gostaria que constasse no sistema e a importância dela?
+São três tipos de visitas importantes de constar:
+	- Negocial: No qual o vendedor irá para fazer novos negócios
+- Pós-Venda: Onde o vendedor irá para resolver algum problema operacional ou financeiro que o cliente está enfrentado na prestação do serviço contratado.
+	- Relacionamento: Visita institucional para estreitar o relacionamento junto ao cliente.
+o Existe necessidade de controle de acesso ao sistema?
+Sim, o sistema deve ser de uso único e exclusivo da empresa, rodar dentro do ambiente de internet e intranet da mesma. Também precisamos de acesso a nível de vendedor diferenciado do acesso de nível de gerente.
+o Em termos de informações de fácil acesso no sistema, o que julga mais importante constar?
+Uma delas é a informação das visitas que serão realizadas no dia, além é claro de agenda mensal ou semanal.
+
+
+* Relatórios:
+o Quais os relatórios são necessários o sistema emitir e qual a finalidade deles? 
+Seguindo a ideia de níveis diferente de informação quanto ao gestor e o vendedor, seria importante os seguintes relatórios:
+	- Relatório mensal do quantitativo de visitas realizadas por tipo;
+	- Relatório de visitas realizadas por vendedor e por tipo.
+
