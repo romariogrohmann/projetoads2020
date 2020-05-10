@@ -6,6 +6,6 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 
 ## [Canvas do Produto](Canvas_MVP_SistemaGestaoVisitas.png)
 
-## [Visão Geral de Funcionamento do Sistema](Visão Geral de Funcionamento do Sistema.png) 
+## [Visão Geral de Funcionamento do Sistema](Visão_Geral_de_Funcionamento_do_Sistema.png)
 
 ## [Prototipação de Baixo Nível](prototipação.jpg)
