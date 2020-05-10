@@ -2,17 +2,10 @@
 
 Esse documento tem como objetivo apresentar e descrever o projeto final, fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento, testes/validação e conclusões.
 
-## [Canvas do Produto](canvas-do-produto.md)
+## [Questionário](Questionário.txt)
 
-## [Planejamento da Release](planejamento-da-release.md)
+## [Canvas do Produto](Canvas_MVP_SistemaGestaoVisitas.png)
 
-## [Representação da Arquitetura](representacao-da-arquitetura.md) 
+## [Visão Geral de Funcionamento do Sistema](Visão Geral de Funcionamento do Sistema.png) 
 
-## [Desenvolvimento da Solução](desenvolvimento-da-solucao.md)
-
-## [Testes e Validação](testes.md)
-
-## [POSTMORTEM](postmortem.md)
-
-
-
+## [Prototipação de Baixo Nível](prototipação.jpg)
