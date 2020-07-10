@@ -13,4 +13,4 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 ## [Estrutura Banco de Dados](bancodedados.png)
 
 ## [Pesquisa de Usabilidade do Sistema](PesquisaUsabilidade.png)
-## [Resultado da Pesquisa](ResultadoPesquisa.png)
+## [Resultado da Pesquisa de Usabilidade](ResultadoPesquisa.png)
