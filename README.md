@@ -11,3 +11,6 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 ## [Prototipação de Baixo Nível](prototipacao.png)
 
 ## [Estrutura Banco de Dados](bancodedados.png)
+
+## [Pesquisa de Usabilidade do Sistema](PesquisaUsabilidade.png)
+## [Resultado da Pesquisa](ResultadoPesquisa.png)
